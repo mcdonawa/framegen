@@ -208,7 +208,7 @@ export default function Page() {
               color: "#FFFFFF",
             }}
           >
-            FRAMEGEN
+            Eyedia Media
           </span>
         </div>
         <div style={{ display: "flex", gap: 16, fontSize: 11, alignItems: "center" }}>
