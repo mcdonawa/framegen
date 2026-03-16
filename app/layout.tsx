@@ -13,8 +13,8 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "FRAMEGEN — AI Creative Studio",
-  description: "Generate video, images, audio and 3D with the latest AI models via fal.ai",
+  title: "Eyedia Media — AI Creative Studio",
+  description: "Generate video, images, audio, and 3D with the latest AI models",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
